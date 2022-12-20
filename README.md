@@ -32,7 +32,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/pqp7C8d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To start go to portal.azure.com and create a profile or login. Create a subscription name-->Create a resource group-->Create two virtual machines>Create a domain controller using Windows Server and a client PC using Windows 10 Pro
+To start go to portal.azure.com and create a profile or login. Create a subscription name-->Create a resource group-->Create two virtual machines-->Create a domain controller using Windows Server and a client PC using Windows 10 Pro
 </p>
 <br />
 
@@ -40,10 +40,9 @@ To start go to portal.azure.com and create a profile or login. Create a subscrip
 <img src="https://i.imgur.com/bYr2TgH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once the two virtual machines are created.  Log into both the Domain Controller and the client using the credentials you created previously.  Open both of your virtual desktops in order to connect the client to the DC. 
+Open remote desktop connection and create two instances for the domain controller and the client.  You will need this to create connectivity between the two in the next step.
 </p>
 <br />
-
 
 <h3>Ensure Connectivity between the client and Domain Controller</h3>
 <p>
