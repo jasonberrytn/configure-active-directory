@@ -36,6 +36,15 @@ To start go to portal.azure.com and create a profile or login. Create a subscrip
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/bYr2TgH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once the two virtual machines are created.  Log into both the Domain Controller and the client using the credentials you created previously.  Open both of your virtual desktops in order to connect the client to the DC. 
+</p>
+<br />
+
+
 <h3>Ensure Connectivity between the client and Domain Controller</h3>
 <p>
 <img src="https://i.imgur.com/b5AWooQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
