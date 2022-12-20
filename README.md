@@ -97,7 +97,7 @@ From the Windows Defender menu click on Inbound Rules-->Click on Protocol to asc
 <img src="https://i.imgur.com/NuJNMKK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To confirm connectivity, open your command prompt-->type ping -t and the private Ip address-->enter.  If a connection has been established between, this command will ping the specified host continuously until stopped. The host is replying so we have an established a successful connection between the client and the host.
+To confirm connectivity, Open an instance of your client desktop and open your command prompt-->type ping -t and the private Ip address-->enter.  If a connection has been established between, this command will ping the specified host continuously until stopped. The host is replying so we have an established a successful connection between the client and the host.
 </p>
 <br />
 
