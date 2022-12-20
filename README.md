@@ -78,10 +78,10 @@ From the ipconfig1 screen, change the assignment of the private IP address from 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JkHLSUC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Login to the Domain Controller through the Remote Desktop Connection and enable ICMPv4 on the local Windows Firewall.  To do this go to Start-->Windows Administrative Tools-->Windows Defender Firewall with Advanced Security
 </p>
 <br />
 
