@@ -21,7 +21,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Step 1 Create Two Virtual Machines
 - Step 2 Ensure Connectivity between the client and Domain Controller
-- Step 3
+- Step 3 Install Active Directory
 - Step 4
 
 <h2>Deployment and Configuration Steps</h2>
@@ -101,6 +101,7 @@ To confirm connectivity, Open an instance of your client desktop and open your c
 </p>
 <br />
 
+<h3>Install Active Directory</h3>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
