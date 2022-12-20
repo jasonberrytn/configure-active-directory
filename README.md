@@ -36,7 +36,7 @@ To start go to portal.azure.com and create a profile or login. Create a subscrip
 </p>
 <br />
 
-- Step 2 Ensure Connectivity between the client and Domain Controller
+<h3>Ensure Connectivity between the client and Domain Controller</h3>
 <p>
 <img src="https://i.imgur.com/b5AWooQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
