@@ -150,16 +150,16 @@ Create a password for Directory Service Restoration Mode (DSRM)-->Click Next unt
 <img src="https://i.imgur.com/hR8Wc6x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to your Remote Desktop Connection and log into your domain controller.  In the Server Manager Menu Click on Tools-->Active Directory Users and Computers and it will open its window.
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 <p>
-Got to your Remote Desktop Connection and log into your domain controller.  In the Server Manager Menu Click on Tools-->Active Directory Users and Computers and it will open its window.
-</p>
+
 <br />
 
 <p>
