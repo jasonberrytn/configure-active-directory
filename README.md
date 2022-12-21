@@ -138,7 +138,7 @@ In Deployment Configuration dialog box click on Add a new forest and give your D
 <img src="https://i.imgur.com/fmr2l9S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a password for Directory Service Restoration Mode (DSRM)-->Click Next until the domain controller finishes installing.  It will automatically reboot, and you will need to log in with your domain name/username and password as the server has been promoted to a domain controller. 
+Create a password for Directory Service Restoration Mode (DSRM)-->Click Next until the domain controller finishes installing.  It will automatically reboot, and you will need to log in with your domain name\username and password as the server has been promoted to a domain controller. 
 </p>
 <br />
 
