@@ -142,6 +142,7 @@ Create a password for Directory Service Restoration Mode (DSRM)-->Click Next unt
 </p>
 <br />
 
+<h3>Create an Admin and Normal User Account in AD</h3>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
