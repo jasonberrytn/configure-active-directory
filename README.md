@@ -223,10 +223,10 @@ Connect to your remote desktop now as the admin that you created in your _ADMINS
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gt1QUvv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Login to your domain controller (DC-!) as an admin.  Go to your Server Manager-->Tools-->Active Directory Users and Computers to open your AD--Click on Users-->Domain Users--> This will bring you to your domain users policy.  This is where your non-admin users will show up.  *note Group Policy will allow you to assign many users to many systems at once but its not covered in this session.
 </p>
 <br />
 
