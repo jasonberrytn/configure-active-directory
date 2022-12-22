@@ -239,10 +239,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 <h3>Create additional users and attempt to login Client-1 with one of the users</h3>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AZCCuwI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+**This method will add 10,000 users using programming code in Powershell***
+Log into your remote desktop  Client-1 with your system admin credentials.  Once windows is open type Powershell ISE in your search bar-->Open as an administrator-->Click on the New File icon-->Paste the code-->Click on the Run icon that looks like a green play button and the users will load into the system. We will go back to DC-1 and choose a user, get credentials and log into Client-1 with that users credentials.
 </p>
 <br />
 
