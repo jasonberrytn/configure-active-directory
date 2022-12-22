@@ -212,6 +212,8 @@ Log into Client-1 using your login credentials from Microsoft Azure go to Start-
 </p>
 <br />
 
+<h3>Setup Remote Desktop for non-administrative users on Client-1</h3>
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
