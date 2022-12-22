@@ -197,10 +197,10 @@ Go to Azure and go to Virtual Machines-->Click on DC-1-->Networking and get the 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PxitGw1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In Microsoft Azure go to virtual machines and select Client-1-->Networking-->Click on the Network interface-->DNS servers-->Select the ratio button in DNS servers from Inherit from network to Custom-->Type in DC-1's private IP address in the bar-->click Save.  Once the settings are saved you will restart Client-1 within the Azure portal and it will flush the DNS cache.
 </p>
 <br />
 
