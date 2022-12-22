@@ -205,10 +205,10 @@ In Microsoft Azure go to virtual machines and select Client-1-->Networking-->Cli
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eTnq9pH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log into Client-1 using your login credentials from Microsoft Azure go to Start-->Settings-->About-->Rename this PC (advanced)-->Click on Domain-->Type the name of your domain in the domain box-->Click OK.
 </p>
 <br />
 
