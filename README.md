@@ -117,7 +117,7 @@ Open an instance of your Domain Controller from the Remote Desktop Connection an
 <img src="https://i.imgur.com/n8YIEe5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click Add roles and features and the wizard will open.  Click on next a couple of times until you see your destination server to connect.  Click next a few times again until you see the Select server roles.  Check the radio button Active Directory Domain Services.  On that page, click on Add Features. Click on next through the proceeding pages that installs all of the dependencies and the final install button.
+Click Add roles and features and the wizard will open.  Click on next continually until you see your destination server to connect.  Click next a few times again until you see the Select server roles.  Check the radio button Active Directory Domain Services.  On that page, click on Add Features. Click on next through the proceeding pages that installs all of the dependencies and the final install button.
 </p>
 <br />
 
@@ -183,7 +183,7 @@ Once the user has been created, the account must be added as an admin to that fo
 <img src="https://i.imgur.com/EXKhRiA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once the group box is populated, type "domains" in enter the object names to be selected box-->Click on Check Names to the right-->Select Domain Admins-->Click Ok-->Click on Apply-->Click Ok. This will add your user as a domain admin to your active directory. Log out of the server and log back into the server as the admin.
+Once the group box is populated, type "domains" enter the object names to be selected box-->Click on Check Names to the right-->Select Domain Admins-->Click Ok-->Click on Apply-->Click Ok. This will add your user as a domain admin to your active directory. Log out of the server and log back into the server as the admin.
 </p>
 <br />
 
@@ -230,12 +230,6 @@ Login to your domain controller (DC-1) as an admin.  Go to your Server Manager--
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
 <h3>Create additional users and attempt to login Client-1 with one of the users</h3>
 <p>
